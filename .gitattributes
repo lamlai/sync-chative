@@ -1,0 +1,8 @@
+# Declare files that will always have LF line endings on checkout.
+* text=auto eol=lf
+
+# Declare files that are truly PHP
+*.php linguist-language=PHP
+
+# Explicitly mark template files as PHP
+templates/*.php linguist-language=PHP
