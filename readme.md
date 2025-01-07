@@ -90,7 +90,7 @@ For support or feature requests, please contact the plugin author.
 
 ## Author
 
-Lam Lai
+[Lam Lai](https://lam.ee)
 
 ## License
 
