@@ -78,6 +78,13 @@ Sync Chative is a WordPress plugin that synchronizes contacts between Chative an
 
 For support or feature requests, please contact the plugin author.
 
+## Sreenshoot
+![Manual Sync](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/e5642198-fffd-40f9-a044-2b95ac096c9a/Xnapper-2025-01-07-12.37.38.png?t=1736234044)
+![Direct Sync](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/4a9d596d-df50-4a12-b9bd-ffe52adcc707/Xnapper-2025-01-07-14.12.13.png?t=1736234320)
+![Webhook Sync](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/25f6f628-e262-4a40-a540-58b632ae927e/Xnapper-2025-01-07-14.12.39.png?t=1736234369)
+![Logs](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/62ab8fa9-2662-42da-ac7b-734af0fafa7a/Xnapper-2025-01-07-12.38.05.png?t=1736234585)
+
+
 ## Version History
 
 ### 1.0
